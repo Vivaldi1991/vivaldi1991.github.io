@@ -1,0 +1,566 @@
+{
+    "fagrezuge": [
+        {
+            "id": 1,
+            "status": "verbunden",
+            "fahrzeug": "BMW X7 (G07, F95)",
+            "kunde": "Daniel Trost",
+            "kennzeichen": "MYK DT 16E",
+            "km_stand": 150,
+            "nachster_service": "HU",
+            "fehler": 5,
+            "letzte_meldung": "29.03.21 08:53"
+        },
+        {
+            "id": 2,
+            "status": "verbunden",
+            "fahrzeug": "BMW X5 (F95)",
+            "kunde": "Martin Frost",
+            "kennzeichen": "DEK DT 26E",
+            "km_stand": 23,
+            "nachster_service": "Auto service",
+            "fehler": 2,
+            "letzte_meldung": "23.01.21 18:33"
+        },
+        {
+            "id": 3,
+            "status": "verbunden",
+            "fahrzeug": "OPEL ZAFIRA B",
+            "kunde": "Wolf Kungen",
+            "kennzeichen": "RAK KL 34E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 4,
+            "status": "getrennt",
+            "fahrzeug": "BMW X5 (G05, F95)",
+            "kunde": "Melanie Kolbe",
+            "kennzeichen": "QAZ DT 67E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 5,
+            "status": "getrennt",
+            "fahrzeug": "OPEL ASTRA H",
+            "kunde": "Marla Singer",
+            "kennzeichen": "WER FD 56E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 6,
+            "status": "getrennt",
+            "fahrzeug": "BMW X7 (G07, F95)",
+            "kunde": "Emilia Baumgartner",
+            "kennzeichen": "MYK DT 16E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 7,
+            "status": "verbunden",
+            "fahrzeug": "BMW X5 (F95)",
+            "kunde": "Martin Frost",
+            "kennzeichen": "DEK DT 26E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 8,
+            "status": "verbunden",
+            "fahrzeug": "OPEL ZAFIRA B",
+            "kunde": "Wolf Kungen",
+            "kennzeichen": "RAK KL 34E",
+            "km_stand": 12,
+            "nachster_service": "Auto repairs",
+            "fehler": 1,
+            "letzte_meldung": "04.08.21 12:33"
+        },
+        {
+            "id": 9,
+            "status": "getrennt",
+            "fahrzeug": "BMW X5 (G05, F95)",
+            "kunde": "Louisa Berg",
+            "kennzeichen": "QAZ DT 67E",
+            "km_stand": 56,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.11.20 17:33"
+        },
+        {
+            "id": 10,
+            "status": "getrennt",
+            "fahrzeug": "OPEL ASTRA H",
+            "kunde": "Marla Singer",
+            "kennzeichen": "WER FD 56E",
+            "km_stand": 125,
+            "nachster_service": "Auto repairs",
+            "fehler": 2,
+            "letzte_meldung": "11.11.20 14:33"
+        },
+        {
+            "id": 11,
+            "status": "verbunden",
+            "fahrzeug": "BMW 1er Hatchback (F40)",
+            "kunde": "Piter Miles",
+            "kennzeichen": "KMY TD 19E",
+            "km_stand": 150,
+            "nachster_service": "HU",
+            "fehler": 5,
+            "letzte_meldung": "29.03.21 08:53"
+        },
+        {
+            "id": 12,
+            "status": "verbunden",
+            "fahrzeug": "BMW 2 Series Active Tourer (U06)",
+            "kunde": "Bart Thomson",
+            "kennzeichen": "RSK AT 26E",
+            "km_stand": 23,
+            "nachster_service": "Auto service",
+            "fehler": 2,
+            "letzte_meldung": "23.01.21 18:33"
+        },
+        {
+            "id": 13,
+            "status": "verbunden",
+            "fahrzeug": "OPEL ZAFIRA B",
+            "kunde": "Swen Beyer",
+            "kennzeichen": "RAK KL 34E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 14,
+            "status": "getrennt",
+            "fahrzeug": "BMW X5 (G05, F95)",
+            "kunde": "Emil Fürst",
+            "kennzeichen": "FDS SA 67S",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 15,
+            "status": "getrennt",
+            "fahrzeug": "OPEL ASTRA H",
+            "kunde": "Jakob Fromm",
+            "kennzeichen": "WOL SX 34E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 16,
+            "status": "getrennt",
+            "fahrzeug": "BMW X7 (G07, F95)",
+            "kunde": "Hilko Richter",
+            "kennzeichen": "FRE DT 34D",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 17,
+            "status": "verbunden",
+            "fahrzeug": "BMW X5 (F95)",
+            "kunde": "Ernst Dresdner",
+            "kennzeichen": "CXS AZ 56G",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 18,
+            "status": "verbunden",
+            "fahrzeug": "OPEL ZAFIRA B",
+            "kunde": "Alexander Sachs",
+            "kennzeichen": "OPL SA 78F",
+            "km_stand": 12,
+            "nachster_service": "Auto repairs",
+            "fehler": 1,
+            "letzte_meldung": "04.08.21 12:33"
+        },
+        {
+            "id": 19,
+            "status": "getrennt",
+            "fahrzeug": "BMW X5 (G05, F95)",
+            "kunde": "Heidi Schuster",
+            "kennzeichen": "WSX AZ 96E",
+            "km_stand": 56,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.11.20 17:33"
+        },
+        {
+            "id": 20,
+            "status": "getrennt",
+            "fahrzeug": "OPEL ASTRA H",
+            "kunde": "Andrea Biermann",
+            "kennzeichen": "ERF SD 57C",
+            "km_stand": 125,
+            "nachster_service": "Auto repairs",
+            "fehler": 2,
+            "letzte_meldung": "11.11.20 14:33"
+        },
+        {
+            "id": 21,
+            "status": "verbunden",
+            "fahrzeug": "BMW X7 (G07, F95)",
+            "kunde": "Hilke Esser",
+            "kennzeichen": "CVF XC 63M",
+            "km_stand": 150,
+            "nachster_service": "HU",
+            "fehler": 5,
+            "letzte_meldung": "29.03.21 08:53"
+        },
+        {
+            "id": 22,
+            "status": "verbunden",
+            "fahrzeug": "BMW X5 (F95)",
+            "kunde": "Helga Goldschmidt",
+            "kennzeichen": "CVF ZA 90E",
+            "km_stand": 23,
+            "nachster_service": "Auto service",
+            "fehler": 2,
+            "letzte_meldung": "23.01.21 18:33"
+        },
+        {
+            "id": 23,
+            "status": "verbunden",
+            "fahrzeug": "OPEL ZAFIRA B",
+            "kunde": "Fanny Sternberg",
+            "kennzeichen": "OKM LG 34E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 24,
+            "status": "getrennt",
+            "fahrzeug": "BMW X5 (G05, F95)",
+            "kunde": "Pamela Sauer",
+            "kennzeichen": "EDC XZ 67E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 25,
+            "status": "getrennt",
+            "fahrzeug": "OPEL ASTRA H",
+            "kennzeichen": "FVC FD 57Y",
+            "kunde": "Kalr Wolf",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 26,
+            "status": "getrennt",
+            "fahrzeug": "BMW X7 (G07, F95)",
+            "kunde": "Gretel Heinrich",
+            "kennzeichen": "SDF DT 16E",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 27,
+            "status": "verbunden",
+            "fahrzeug": "BMW X5 (F95)",
+            "kunde": "Kalr Wolf",
+            "kennzeichen": "LKJ DT 21C",
+            "km_stand": 34,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.08.20 17:33"
+        },
+        {
+            "id": 28,
+            "status": "verbunden",
+            "fahrzeug": "OPEL ZAFIRA B",
+            "kunde": "Ella Blau",
+            "kennzeichen": "VBN KL 38C",
+            "km_stand": 12,
+            "nachster_service": "Auto repairs",
+            "fehler": 1,
+            "letzte_meldung": "04.08.21 12:33"
+        },
+        {
+            "id": 29,
+            "status": "getrennt",
+            "fahrzeug": "BMW X5 (G05, F95)",
+            "kunde": "Monika Breiner",
+            "kennzeichen": "OJD DT 65B",
+            "km_stand": 56,
+            "nachster_service": "Auto repairs",
+            "fehler": 0,
+            "letzte_meldung": "14.11.20 17:33"
+        },
+        {
+            "id": 30,
+            "status": "getrennt",
+            "fahrzeug": "OPEL ASTRA H",
+            "kunde": "Daniel Trost",
+            "kennzeichen": "VBG FD 58Z",
+            "km_stand": 125,
+            "nachster_service": "Auto repairs",
+            "fehler": 2,
+            "letzte_meldung": "11.11.20 14:33"
+        }
+    ],
+    "messages": [  
+        {
+            "id": "012123123",
+            "type": "error",
+            "from": "GOA SF 999 (Sven Faller)",
+            "title": "ESP-Leuchte activ",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Heute, 12:39",
+            "isReaded": false
+        },    
+        {
+            "id": "012456123",
+            "type": "info",
+            "from": "GOA SF 999 (Sven Faller)",
+            "title": "ABS Leuchte activ",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Heute, 12:39",
+            "isReaded": false
+        },
+        {
+            "id": "345123123",
+            "type": "info",
+            "from": "MY SL 123 (Thomas Pietsch)",
+            "title": "Ein DTC wurde festgestellt",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Gestern, 13:43",
+            "isReaded": false
+        },
+        {
+            "id": "012112323",
+            "type": "success",
+            "from": "MYK EG1610 (Eugen Geck)",
+            "title": "Adapter verbunden",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Gestern, 18:53",
+            "isReaded": false
+        },
+        {
+            "id": "012132453",
+            "type": "error",
+            "from": "GOA SF 999 (Sven Faller)",
+            "title": "ESP-Leuchte activ",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Heute, 12:39",
+            "isReaded": false
+        },    
+        {
+            "id": "012456123",
+            "type": "info",
+            "from": "GOA SF 999 (Sven Faller)",
+            "title": "ABS Leuchte activ",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Heute, 12:39",
+            "isReaded": true
+        },
+        {
+            "id": "678823123",
+            "type": "info",
+            "from": "MY SL 123 (Thomas Pietsch)",
+            "title": "Ein DTC wurde festgestellt",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Gestern, 13:43",
+            "isReaded": true
+        },
+        {
+            "id": "2342412323",
+            "type": "success",
+            "from": "MYK EG1610 (Eugen Geck)",
+            "title": "Adapter verbunden",
+            "message": "Deutsches Ipsum Dolor quo lucilius Turnbeutel at, adhuc laboramus sadipscing per Fußball in mei ullum gloriatur. Id Weihnachten recteque accommodare sed. Id nec Krankenschwester argumentum, te melius erroribus vix. Mozart ut amet causae iriure, prodesset Hamburg mea ut. Dicunt virtute suscipit Deutschland no. At nemore scaevola eum. Müller Rice regione malorum efficiendi ius",
+            "date": "Gestern, 18:53",
+            "isReaded": true
+        }
+    ],
+    "cars": [   
+        {
+            "img": "https://rng-t.com/upload/iblock/94f/94fbe965737caf4754e9d4d1e9aaca71.jpeg",
+            "hersteller": "BMW",
+            "modell": "BMW X5 (G05, F95)",
+            "baujahr": "08/2018..07/2020",
+            "leistung": "183 kW (249 PS)",
+            "kraftsoffart": "Diesel",
+            "kraftsoffaufbereitung": "Direkteinspritzung",
+            "hibraum": "2993 ccn (3,0 1)",
+            "aufbauart": "SUV",
+            "antribsart": "Allard",
+            "zylinder": 6,
+            "ventile_pro_brennraum": 4,
+            "motorart": "Diesel",
+            "kba_nummern": "0005CTB",
+            "motorcodes": "B57 D30 A",
+            "interne_nummer": "PT132802"
+        },
+        {
+            "img": "https://s.auto.drom.ru/photo/U1TSCy_JIZsY51Ci5MbiwE0SFmoc5kAWHT-w6iSNNnr9YbxPPgLZvn5gVHqBRQhQziksBMjPHkUhgeT50lVNarxBOAB3.jpg",
+            "hersteller": "BMW",
+            "modell": "BMW X7 (G07, F95)",
+            "baujahr": "08/2018..07/2020",
+            "leistung": "265 PS",
+            "kraftsoffart": "Diesel",
+            "kraftsoffaufbereitung": "Direkteinspritzung",
+            "hibraum": "2993 ccn (3,0 i)",
+            "aufbauart": "SUV",
+            "antribsart": "Allard",
+            "zylinder": 6,
+            "ventile_pro_brennraum": 4,
+            "motorart": "Diesel",
+            "kba_nummern": "0006CTB",
+            "motorcodes": "C23 A32 A",
+            "interne_nummer": "BF321802"
+        },
+        {
+            "img": "https://www.auto-data.net/images/f52/Volkswagen-Kaefer.jpg",
+            "hersteller": "Volkswagen",
+            "modell": "Volkswagen Kaefer (1500)",
+            "baujahr": "1967..1969",
+            "leistung": "54 PS",
+            "kraftsoffart": "Motorenbenzin",
+            "kraftsoffaufbereitung": "Vergaser",
+            "hibraum": "1499 ccn (1,5)",
+            "aufbauart": "Coupe",
+            "antribsart": "Heckantrieb",
+            "zylinder": 4,
+            "ventile_pro_brennraum": 2,
+            "motorart": "Motorenbenzin",
+            "kba_nummern": "0006CTX",
+            "motorcodes": "B64 D40 A",
+            "interne_nummer": "PT342802"
+        }
+    ],
+    "adapters": [
+        { 
+            "id": 1, 
+            "status": "verbunden", 
+            "imei": "045ab04b-4066-4856-b6e4-89a58dd85d5c", 
+            "anbieter": "bmw", 
+            "fahrzeug": "BMW X7 (G07, F95)", 
+            "kunde": "Daniel Trost",
+            "kennzeichen": "MYK DT 16E",
+            "vin": "WBATA619009G98456"
+        },
+        { 
+            "id": 2, 
+            "status": "verbunden", 
+            "imei": "345ab04b-4567-1233-b6e4-67a58dd85d5c", 
+            "anbieter": "bmw", 
+            "fahrzeug": "BMW X5 (F95)", 
+            "kunde": "Martin Frost",
+            "kennzeichen": "DEK DT 26E",
+            "vin": "WBATS619345G98456"
+        },
+        { 
+            "id": 3, 
+            "status": "verbunden", 
+            "imei": "325ab04b-5674-7988-b6e4-89a78gg88d5c", 
+            "anbieter": "OPEL", 
+            "fahrzeug": "OPEL ZAFIRA B", 
+            "kunde": "Wolf Kungen",
+            "kennzeichen": "RAK KL 34E",
+            "vin": "WBATA876549G98456"
+        },
+        { 
+            "id": 4, 
+            "status": "getrennt", 
+            "imei": "045ab04b-4066-4856-b6e4-89a58dd85d5c", 
+            "anbieter": "bmw", 
+            "fahrzeug": "BMW X5 (G05, F95)", 
+            "kunde": "Kalr Wolf",
+            "kennzeichen": "QAZ DT 67E",
+            "vin": "WBATF4562219G98456"
+        },
+        { 
+            "id": 5, 
+            "status": "getrennt", 
+            "imei": "045ab04b-4066-4856-b6e4-89a58dd85d5c", 
+            "anbieter": "OPEL", 
+            "fahrzeug": "OPEL ASTRA H", 
+            "kunde": "Marla Singer",
+            "kennzeichen": "WER FD 56E",
+            "vin": "WOLOA634563G98456"
+        },
+        { 
+            "id": 6, 
+            "status": "verbunden", 
+            "imei": "045ab04b-4066-4856-b6e4-89a58dd85d5c", 
+            "anbieter": "bmw", 
+            "fahrzeug": "BMW X7 (G07, F95)", 
+            "kunde": "Daniel Trost",
+            "kennzeichen": "MYK DT 16E",
+            "vin": "WBATA619009G98456"
+        },
+        { 
+            "id": 7, 
+            "status": "verbunden", 
+            "imei": "345ab04b-4567-1233-b6e4-67a58dd85d5c", 
+            "anbieter": "bmw", 
+            "fahrzeug": "BMW X5 (F95)", 
+            "kunde": "Martin Frost",
+            "kennzeichen": "DEK DT 26E",
+            "vin": "WBATS619345G98456"
+        },
+        { 
+            "id": 8, 
+            "status": "verbunden", 
+            "imei": "325ab04b-5674-7988-b6e4-89a78gg88d5c", 
+            "anbieter": "OPEL", 
+            "fahrzeug": "OPEL ZAFIRA B", 
+            "kunde": "Wolf Kungen",
+            "kennzeichen": "RAK KL 34E",
+            "vin": "WBATA876549G98456"
+        },
+        { 
+            "id": 9, 
+            "status": "getrennt", 
+            "imei": "045ab04b-4066-4856-b6e4-89a58dd85d5c", 
+            "anbieter": "bmw", 
+            "fahrzeug": "BMW X5 (G05, F95)", 
+            "kunde": "Kalr Wolf",
+            "kennzeichen": "QAZ DT 67E",
+            "vin": "WBATF4562219G98456"
+        },
+        { 
+            "id": 10, 
+            "status": "getrennt", 
+            "imei": "045ab04b-4066-4856-b6e4-89a58dd85d5c", 
+            "anbieter": "OPEL", 
+            "fahrzeug": "OPEL ASTRA H", 
+            "kunde": "Marla Singer",
+            "kennzeichen": "WER FD 56E",
+            "vin": "WOLOA634563G98456"
+        }
+    ]
+}
